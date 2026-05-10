@@ -1,6 +1,8 @@
 # Noctyra Launcher
 
-Lightweight open source launcher built with Rust and Tauri
+Lightweight open source launcher built with Rust and Tauri.
+
+Created by yZarickZ.
 
 ## Goals
 
@@ -19,3 +21,9 @@ Lightweight open source launcher built with Rust and Tauri
 ## Status
 
 Early development
+
+## First Prototype
+
+Initial Tauri window after project setup.
+
+![First Prototype](assets/screenshots/first-window.png)
